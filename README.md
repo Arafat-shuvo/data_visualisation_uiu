@@ -49,31 +49,6 @@ This repository contains my learning journey, practical implementations, and pro
 - Plotly Graphs
 - Interactive Dashboards
 
-## 📂 Repository Structure
-
-```text
-Data-Visualization/
-│
-├── Matplotlib/
-│   ├── line_plot.py
-│   ├── bar_chart.py
-│   ├── scatter_plot.py
-│   └── histogram.py
-│
-├── Seaborn/
-│   ├── box_plot.py
-│   ├── heatmap.py
-│   └── pair_plot.py
-│
-├── Plotly/
-│   └── interactive_chart.py
-│
-├── Datasets/
-│
-├── Images/
-│
-└── README.md
-```
 
 ## 📈 Sample Visualizations
 
